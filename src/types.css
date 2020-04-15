@@ -1,0 +1,75 @@
+#normal { 
+    background-image: linear-gradient(#A8A878, rgb(126, 126, 89));
+}
+
+#fighting {
+    background-image: linear-gradient( #C03028, rgb(131, 29, 23));
+}
+
+#flying {
+    background-image: linear-gradient( #A890F0, rgb(122, 98, 196));
+}
+
+#poison {
+    background-image: linear-gradient( #A040A0, rgb(129, 46, 129));
+}
+
+#ground {
+    background-image: linear-gradient( #E0C068, rgb(143, 120, 56));
+}
+
+#rock { 
+    background-image: linear-gradient( #B8A038, rgb(121, 105, 35));
+}
+
+#bug {
+    background-image: linear-gradient( #A8B820, rgb(116, 128, 17));
+}
+
+#ghost {
+    background-image: linear-gradient( #705898, #4b356d);
+}
+
+#steel {
+    background-image: linear-gradient( #B8B8D0, rgb(127, 127, 150));
+}
+
+#fire {
+    background-image: linear-gradient( rgb(255, 128, 37), rgb(180, 92, 29));
+}
+
+#water {
+    background-image: linear-gradient( #6890F0, rgb(70, 103, 180));
+}
+
+#grass {
+    background-image: linear-gradient( #78C850, rgb(77, 141, 46));
+}
+
+#electric {
+    background-image: linear-gradient( rgb(255, 204, 0), rgb(187, 150, 0));
+}
+
+#psychic {
+    background-image: linear-gradient( #F85888, rgb(192, 64, 102));
+}
+
+#ice {
+    background-image: linear-gradient( rgb(195, 236, 236), rgb(116, 151, 151));
+}
+
+#dragon {
+    background-image: linear-gradient( rgb(64, 0, 212), rgb(190, 0, 0));
+}
+
+#dark {
+    background-image: linear-gradient( #705848, #35281f);
+}
+
+#fairy {
+    background-image: linear-gradient( #EE99AC, rgb(179, 110, 125));
+}
+
+#unknown {
+    background-image: linear-gradient( rgba(1,1,1,0), rgba(68, 68, 68, 0));
+}
